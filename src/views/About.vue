@@ -11,12 +11,12 @@
       <van-divider :style="{ color: '#1baeae', borderColor: '#1baeae', fontSize: '20px', fontWeight: 500 }">开源地址</van-divider>
       <div>
         <br/>
-        <div>用户端后端项目地址：<a target="_blank" href="https://github.com/jiali-shuai/web.fastapi.git">https://github.com/newbee-ltd/newbee-mall-api</a></div>
-        <div>用户端前端项目地址：<a target="_blank" href="https://github.com/jiali-shuai/web.vue3.git">https://github.com/newbee-ltd/newbee-mall-admin</a></div>
+        <div>用户端后端项目地址：<a target="_blank" href="https://github.com/jiali-shuai/web.fastapi.git">https://github.com/jiali-shuai/web.fastapi.git</a></div>
+        <div>用户端前端项目地址：<a target="_blank" href="https://github.com/jiali-shuai/web.vue3.git">https://github.com/jiali-shuai/web.vue3.git</a></div>
         <br/>
         
-        <div>管理员后端项目地址：<a target="_blank" href="https://github.com/jiali-shuai/houdtai.fastapi.git">https://github.com/newbee-ltd/newbee-mall-vue-app</a></div>
-        <div>管理员前端项目地址：<a target="_blank" href="https://github.com/jiali-shuai/houtai.vue3.git">https://github.com/newbee-ltd/newbee-mall-vue-app</a></div>
+        <div>管理员后端项目地址：<a target="_blank" href="https://github.com/jiali-shuai/houdtai.fastapi.git">https://github.com/jiali-shuai/houdtai.fastapi.git</a></div>
+        <div>管理员前端项目地址：<a target="_blank" href="https://github.com/jiali-shuai/houtai.vue3.git">https://github.com/jiali-shuai/houtai.vue3.git</a></div>
         <br/>
         
       </div>
